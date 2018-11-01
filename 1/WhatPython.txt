@@ -1,0 +1,17 @@
+Pythonとは
+・スクリプト言語
+・機械学習、AIで利用される
+・海外ではWebアプリケーション開発でも人気
+・Pepperも動かせる
+
+開発に必要なもの
+PC　→　Mac　Windows
+テキストエディタ（IDE）
+ターミナル・コマンドプロンプトの知識（少々）
+
+
+公式サイト
+https://www.python.org/
+
+公式ドキュメント
+https://docs.python.org/ja/3/
